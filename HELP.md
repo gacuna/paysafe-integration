@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.k2pay.safetypay-integration-api' is invalid and this project uses 'com.k2pay.safetypayintegrationapi' instead.
+* The original package name 'com.k2pay.safetypay-integration-api' is invalid and this project uses 'com.k2pay.safetypay' instead.
 
 # Getting Started
 

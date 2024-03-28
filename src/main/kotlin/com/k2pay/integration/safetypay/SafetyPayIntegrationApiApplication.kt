@@ -1,4 +1,4 @@
-package com.k2pay.safetypayintegrationapi
+package com.k2pay.integration.safetypay
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
